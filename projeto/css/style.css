@@ -1,0 +1,16 @@
+.cor_link{
+    color:aliceblue
+}
+.cor_link.cor_link:hover{
+    color:blue
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+h1{
+    margin: 10px;
+    text-align: center;
+}
